@@ -6,7 +6,8 @@ title = "The Great Very Super Original Word Game"
 bank = []
 numWords = 281
 
-file = open(r"word-bank","r")
+#opening word bank file - may have to change path name 
+file = open(r"word-bank","r") 
 
 for x in range(numWords - 1):
     bank.append((file.readline()).lower().strip())
