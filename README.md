@@ -1,1 +1,1 @@
-To play, download both files to same path and run the word-game-main code. You may have to adjust the path name for the file depending on where it's stored and how it reads on your computer. Have fun!
+To play, download both files to same path and run the word-game-main code. You may have to adjust the path name in the main code for the word bank file depending on where it's stored and how it reads on your computer (I added a comment in the main code where you'd have to adjust it - only in that one line). Have fun!
