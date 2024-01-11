@@ -1,0 +1,1 @@
+To play, download both files to same path and run the word-game-main code. You may have to adjust the path name for the file depending on where it's stored and how it reads on your computer. Have fun!
