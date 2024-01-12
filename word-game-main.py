@@ -7,7 +7,7 @@ bank = []
 numWords = 281
 
 #opening word bank file - may have to change path name 
-file = open(r"word-bank","r") 
+file = open(r"word-bank.txt","r") 
 
 for x in range(numWords - 1):
     bank.append((file.readline()).lower().strip())
